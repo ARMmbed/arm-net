@@ -1,4 +1,8 @@
 
+<<<<<<< a86f78e20ad0dafedaf492d9a7b2d4f1d35380aa
 
 slkdsd
 
+=======
+slkdsd
+>>>>>>> dana.txt file update
