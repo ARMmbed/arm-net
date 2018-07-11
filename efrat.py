@@ -1,2 +1,3 @@
 print('efrat')
-print('arkadi')
+print ('arkady')
+
